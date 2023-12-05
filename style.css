@@ -1,0 +1,33 @@
+.titulo{
+   background-color: aliceblue;
+    text-align: center;
+ }
+
+ body {
+    background-color: rgb(114, 109, 109);
+    text-align: center;
+ }
+
+ .lamborghini_aventador { 
+   width: 50%;
+   height: 50%;
+ }
+
+ .motor-v12{
+   width: 50%;
+   height: 50%;
+ }
+
+ .motor{
+   background-color: aliceblue;
+ }
+
+ .Etimologia{
+   text-align: center;
+   background-color: aliceblue;
+ }
+ 
+ .Lamborghini-Aventador{
+   text-align: center;
+   background-color: aliceblue;
+ }
